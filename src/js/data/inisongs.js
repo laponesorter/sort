@@ -69,7 +69,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Cardio",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/A-a.png",
     opts: {
       release: [ "single1" ],
       type: ["bside"],
