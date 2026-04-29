@@ -123,7 +123,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "CALL 119",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s2.png",
     opts: {
       release: [ "single2" ,"album1"],
       type: ["aside"],
@@ -132,7 +132,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "We Are",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s2.png",
     opts: {
       release: [ "single2" ,"album1"],
       type: ["bside"],
@@ -141,7 +141,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "BOMBARDA",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s2.png",
     opts: {
       release: [ "single2" ],
       type: ["bside"],
@@ -150,7 +150,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "DILEMMA",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s2.png",
     opts: {
       release: [ "single2" ],
       type: ["bside"],
@@ -159,7 +159,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "AMAZE ME",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s2.png",
     opts: {
       release: [ "single2" ],
       type: ["bside"],
@@ -168,7 +168,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Polaroid",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s2.png",
     opts: {
       release: [ "single2" ],
       type: ["bside"],
@@ -177,7 +177,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Yummy!!",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digiyummy.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -186,7 +186,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Password",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s3.png",
     opts: {
       release: [ "single3" ,"album1"],
       type: ["aside"],
@@ -195,7 +195,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "STRIDE",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s3.png",
     opts: {
       release: [ "single3" ],
       type: ["bside"],
@@ -204,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Shooting Star",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s3.png",
     opts: {
       release: [ "single3" ],
       type: ["bside"],
@@ -213,7 +213,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Mirror",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s3.png",
     opts: {
       release: [ "single3" ,"album1"],
       type: ["bside"],
@@ -222,7 +222,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "HERO",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digihero.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -231,7 +231,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "SPECTRA",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a1.png",
     opts: {
       release: ["album1"],
       type: ["aside"],
@@ -240,7 +240,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Dramatic",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a1.png",
     opts: {
       release: ["album1"],
       type: ["bside"],
@@ -249,7 +249,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "BAD BOYZ",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a1.png",
     opts: {
       release: ["album1"],
       type: ["bside"],
@@ -259,7 +259,7 @@ dataSet[dataSetVersion].characterData = [
 
 {
     name: "Do What You Like",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a1.png",
     opts: {
       release: ["album1"],
       type: ["bside"],
@@ -269,7 +269,7 @@ dataSet[dataSetVersion].characterData = [
 
 {
     name: "Runaway",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a1.png",
     opts: {
       release:  ["album1"],
       type: ["bside"],
@@ -279,7 +279,7 @@ dataSet[dataSetVersion].characterData = [
 
 {
     name: "Let Me Fly〜その未来へ〜(INI Ver.)",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a1.png",
     opts: {
       release: ["album1"],
       type: ["bside"],
@@ -288,7 +288,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "New Day",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/diginewday.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -297,7 +297,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "FANFARE",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s4.png",
     opts: {
       release: [ "single4" ,"album2"],
       type: ["aside"],
@@ -306,7 +306,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Let's Escape",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s4.png",
     opts: {
       release: [ "single4" ],
       type: ["bside"],
@@ -315,7 +315,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "INItialize",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s4.png",
     opts: {
       release: [ "single4" ,"album2"],
       type: ["bside"],
@@ -324,7 +324,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "DROP",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s4.png",
     opts: {
       release: [ "single4" ,"album2"],
       type: ["bside"],
@@ -333,7 +333,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "My Story",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digimystory.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -342,7 +342,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Moment",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digimoment.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
