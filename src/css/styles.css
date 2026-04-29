@@ -18,7 +18,7 @@ body {
 
 .progressbar {
   position: relative;
-  width: 492px;
+  width: 525px;
   border: 1px solid black;
   padding: 3px;
   margin: 2px 0px;
@@ -26,7 +26,7 @@ body {
 
 .progresstext {
   position: absolute;
-  width: 492px;
+  width: 525px;
   margin: 3px 0px;
   text-align: center;
   font-size: 0.7em;
@@ -130,6 +130,8 @@ body {
   text-align: center;
   font-size: 0.8em;
   line-height: 1.5em;
+  vertical-align: middle;
+
 }
 
 .sorter > .left {
@@ -196,8 +198,6 @@ label:hover {
 @media all and (min-width: 600px) {
   .results {
     flex-flow: column wrap;
-    max-height: calc(5 * (175px + 2px) + 1 * (15px + 2px));
-    /* 2px for borders */
   }
 }
 
