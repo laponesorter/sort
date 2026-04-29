@@ -51,7 +51,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Rocketeer",
-    img: "https://github.com/laponesorter/sort/blob/master/src/assets/covers/Areg.webp",
+    img: "Areg.webp",
     opts: {
       release: [ "single1" ,"album1"],
       type: ["aside"],
@@ -549,7 +549,7 @@ dataSet[dataSetVersion].characterData = [
     },  
 {
     name: "Make It Count",
-    img: "https://i.scdn.co/image/ab67616d00001e02c7e32b8d8f888ce9d03105b4",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
