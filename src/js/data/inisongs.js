@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Busterz",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digibusterz.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -360,7 +360,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "HANA_花",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s5.png",
     opts: {
       release: [ "single5" ,"album2"],
       type: ["aside"],
@@ -369,7 +369,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "TAG",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s5.png",
     opts: {
       release: [ "single5" ,"album2"],
       type: ["bside"],
@@ -378,7 +378,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "10 THINGS",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s5.png",
     opts: {
       release: [ "single5" ],
       type: ["bside"],
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "YOU IN",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s5.png",
     opts: {
       release: [ "single5" ,"album2"],
       type: ["bside"],
@@ -396,7 +396,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "LEGIT",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a2.png",
     opts: {
       release:  ["album2"],
       type: ["aside"],
@@ -405,7 +405,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "MORE",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a2.png",
     opts: {
       release:  ["album2"],
       type: ["bside"],
@@ -414,7 +414,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "T-Shirt",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a2.png",
     opts: {
       release:  ["album2"],
       type: ["bside"],
@@ -423,7 +423,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Dirty Shoes Swag",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a2.png",
     opts: {
       release:  ["album2"],
       type: ["bside"],
@@ -432,7 +432,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "TELEVISION",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a2.png",
     opts: {
       release:  ["album2"],
       type: ["bside"],
@@ -441,7 +441,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Ferris Wheel",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a2.png",
     opts: {
       release:  ["album2"],
       type: ["bside"],
@@ -450,7 +450,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Whatever Happens",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digiwhateverhappens.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -459,7 +459,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "LOUD",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s6.png",
     opts: {
       release: [ "single6" , "album3" ],
       type: ["aside"],
@@ -468,7 +468,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Walkie Talkie",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s6.png",
     opts: {
       release: [ "single6" , "album3" ],
       type: ["bside"],
@@ -477,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "3D",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s6.png",
     opts: {
       release: [ "single6" , "album3" ],
       type: ["bside"],
@@ -486,7 +486,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "I'm a Dreamer",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s6.png",
     opts: {
       release: [ "single6" ],
       type: ["bside"],
@@ -495,7 +495,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "FIRST",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digifirst.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -504,7 +504,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Break of Dawn",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digibreakofdawn.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -513,7 +513,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "WMDA (Where My Drums At)",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s7.png",
     opts: {
       release: [ "single7" , "album3" ],
       type: ["aside"],
@@ -522,7 +522,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "ONE NIGHT",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s7.png",
     opts: {
       release: [ "single7" , "album3" ],
       type: ["bside"],
@@ -531,7 +531,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "HI-DE-HO",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s7.png",
     opts: {
       release: [ "single7" ],
       type: ["bside"],
@@ -540,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Drip Drop",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s7.png",
     opts: {
       release: [ "single7" , "album3" ],
       type: ["bside"],
@@ -549,7 +549,7 @@ dataSet[dataSetVersion].characterData = [
     },  
 {
     name: "Make It Count",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digimakeitcount.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -558,7 +558,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "BREATH (TAKUMI, MASAYA, TAKERU, YUDAI, KYOSUKE)",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digibreath.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -567,7 +567,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Howlin' (RIHITO, FENGFAN, HIROMU, SHOGO, HIROTO, JIN)",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digihowlin.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -576,7 +576,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "PARTY GOES ON",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digiparty.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -585,7 +585,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "DOMINANCE",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a3.png",
     opts: {
       release:  [ "album3" ],
       type: ["aside"],
@@ -594,7 +594,7 @@ dataSet[dataSetVersion].characterData = [
     },
  {
     name: "Potion",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a3.png",
     opts: {
       release:  [ "album3" ],
       type: ["bside"],
@@ -603,7 +603,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Bullseye",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a3.png",
     opts: {
       release:  [ "album3" ],
       type: ["bside"],
@@ -612,7 +612,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "Non-Stop",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a3.png",
     opts: {
       release:  [ "album3" ],
       type: ["bside"],
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "What A Night",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a3.png",
     opts: {
       release:  [ "album3" ],
       type: ["bside"],
@@ -630,7 +630,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "Pineapple Juice",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/a3.png",
     opts: {
       release:  [ "album3" ],
       type: ["bside"],
@@ -640,7 +640,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "Present",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/swinter.png",
     opts: {
       release:  [ "singlewinter" ],
       type: ["aside"],
@@ -650,7 +650,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "U MINE",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/swinter.png",
     opts: {
       release:  [ "singlewinter" ],
       type: ["bside"],
@@ -660,7 +660,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "WISH",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/swinter.png",
     opts: {
       release:  [ "singlewinter" ],
       type: ["bside"],
@@ -669,7 +669,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "君がいたから",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/swinter.png",
     opts: {
       release:  [ "singlewinter" ],
       type: ["bside"],
@@ -679,7 +679,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "True Love",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/swinter.png",
     opts: {
       release:  [ "singlewinter" ],
       type: ["bside"],
@@ -688,7 +688,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "All 4 U",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s8.png",
     opts: {
       release:  [ "single8" ],
       type: ["aside"],
@@ -698,7 +698,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "DUM",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s8.png",
     opts: {
       release:  [ "single8" ],
       type: ["bside"],
@@ -707,7 +707,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "OURS",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s8.png",
     opts: {
       release:  [ "single8" ],
       type: ["bside"],
@@ -716,7 +716,7 @@ dataSet[dataSetVersion].characterData = [
     },
   {
     name: "EAT UP",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s8.png",
     opts: {
       release:  [ "single8" ],
       type: ["bside"],
