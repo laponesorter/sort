@@ -53,7 +53,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Rocketeer",
     img: "https://github.com/laponesorter/sort/blob/master/src/assets/covers/Areg.webp",
     opts: {
-      release: [ "single1" ], ["album1"],
+      release: [ "single1" ,"album1"],
       type: ["aside"],
       year: ["21"]
     }
@@ -62,7 +62,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Brighter",
     img: "https://static.wikia.nocookie.net/ini/images/6/6f/A_Limited_Edition_B.png",
     opts: {
-      release: [ "single1" ], ["album1"],
+      release: [ "single1" ,"album1"],
       type: ["aside"],
       year: ["21"]
     }
@@ -125,7 +125,7 @@ dataSet[dataSetVersion].characterData = [
     name: "CALL 119",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single2" ], ["album1"],
+      release: [ "single2" ,"album1"],
       type: ["aside"],
       year: ["22"]
     }
@@ -134,7 +134,7 @@ dataSet[dataSetVersion].characterData = [
     name: "We Are",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single2" ], ["album1"],
+      release: [ "single2" ,"album1"],
       type: ["bside"],
       year: ["22"]
     }
@@ -188,7 +188,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Password",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single3" ], ["album1"],
+      release: [ "single3" ,"album1"],
       type: ["aside"],
       year: ["22"]
     }
@@ -215,7 +215,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mirror",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single3" ], ["album1"],
+      release: [ "single3" ,"album1"],
       type: ["bside"],
       year: ["22"]
     }
@@ -299,7 +299,7 @@ dataSet[dataSetVersion].characterData = [
     name: "FANFARE",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single4" ], ["album2"],
+      release: [ "single4" ,"album2"],
       type: ["aside"],
       year: ["23"]
     }
@@ -317,7 +317,7 @@ dataSet[dataSetVersion].characterData = [
     name: "INItialize",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single4" ], ["album2"],
+      release: [ "single4" ,"album2"],
       type: ["bside"],
       year: ["23"]
     }
@@ -326,7 +326,7 @@ dataSet[dataSetVersion].characterData = [
     name: "DROP",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single4" ], ["album2"],
+      release: [ "single4" ,"album2"],
       type: ["bside"],
       year: ["23"]
     }
@@ -362,7 +362,7 @@ dataSet[dataSetVersion].characterData = [
     name: "HANA_花",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single5" ], ["album2"],
+      release: [ "single5" ,"album2"],
       type: ["aside"],
       year: ["23"]
     }
@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
     name: "TAG",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single5" ], ["album2"],
+      release: [ "single5" ,"album2"],
       type: ["bside"],
       year: ["23"]
     }
@@ -389,7 +389,7 @@ dataSet[dataSetVersion].characterData = [
     name: "YOU IN",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single5" ], ["album2"],
+      release: [ "single5" ,"album2"],
       type: ["bside"],
       year: ["23"]
     }
@@ -461,7 +461,7 @@ dataSet[dataSetVersion].characterData = [
     name: "LOUD",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single6" ], [ "album3" ],
+      release: [ "single6" , "album3" ],
       type: ["aside"],
       year: ["24"]
     }
@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Walkie Talkie",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single6" ], [ "album3" ],
+      release: [ "single6" , "album3" ],
       type: ["bside"],
       year: ["24"]
     }
@@ -479,7 +479,7 @@ dataSet[dataSetVersion].characterData = [
     name: "3D",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single6" ], [ "album3" ],
+      release: [ "single6" , "album3" ],
       type: ["bside"],
       year: ["24"]
     }
@@ -515,7 +515,7 @@ dataSet[dataSetVersion].characterData = [
     name: "WMDA (Where My Drums At)",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single7" ], [ "album3" ],
+      release: [ "single7" , "album3" ],
       type: ["aside"],
       year: ["24"]
     }
@@ -524,7 +524,7 @@ dataSet[dataSetVersion].characterData = [
     name: "ONE NIGHT",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single7" ], [ "album3" ],
+      release: [ "single7" , "album3" ],
       type: ["bside"],
       year: ["24"]
     }
@@ -542,7 +542,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Drip Drop",
     img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
-      release: [ "single7" ], [ "album3" ],
+      release: [ "single7" , "album3" ],
       type: ["bside"],
       year: ["24"]
     }
