@@ -123,6 +123,7 @@ body {
   width: 180px;
   height: 60px;
   display: flex;
+  text-align: center;
   padding-bottom: 5px;
   vertical-align: middle;
 }
@@ -132,6 +133,7 @@ body {
   width: calc(100%-10px);
   text-align: center;
   display: flex;
+  text-align: center;
   font-size: 0.8em;
   line-height: 1.5em;
   vertical-align: middle;
