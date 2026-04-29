@@ -51,7 +51,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Rocketeer",
-    img: "Areg.webp",
+    img: "https://static.wikia.nocookie.net/ini/images/e/e7/A_Regular_Edition.png",
     opts: {
       release: [ "single1" ,"album1"],
       type: ["aside"],
@@ -69,7 +69,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Cardio",
-    img: "https://github.com/laponesorter/sort/blob/master/src/assets/covers/Aa.webp",
+    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
     opts: {
       release: [ "single1" ],
       type: ["bside"],
