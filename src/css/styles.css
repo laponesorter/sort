@@ -162,6 +162,7 @@ body {
 
 .options > div {
   font-size: 0.5625em;
+  vertical-align: middle;
 }
 
 label {
@@ -176,6 +177,7 @@ label:hover {
   grid-column: span 3;
   text-align: center;
   width: 100%;
+  vertical-align: middle;
 }
 
 .image.selector {
@@ -184,6 +186,7 @@ label:hover {
   display: none;
   text-align: center;
   font-size: 0.75em;
+  vertical-align: middle;
 }
 
 .time.taken {
@@ -200,18 +203,20 @@ label:hover {
   align-content: flex-start;
   width: 80%;
   margin: 2em auto;
-  align: center;
+  align-items: center;
 }
 
 @media all and (min-width: 600px) {
   .results {
     flex-flow: column wrap;
+    align-items: center;
   }
 }
 
 @media all and (max-width: 600px) {
   .results {
     flex-flow: column nowrap;
+    align-items: center;
   }
 }
 
@@ -222,6 +227,7 @@ label:hover {
   grid-template-columns: repeat(2, 1fr);
   border: 1px solid #000;
   margin-right: 5px;
+  align-items: center;
 }
 
 .result.image {
