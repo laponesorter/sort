@@ -153,6 +153,8 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
   width: 450px;
+  vertical-align: middle;
+
 }
 
 .options > div {
@@ -220,6 +222,8 @@ label:hover {
 
 .result.image {
   height: 175px;
+  display: flex;
+
 }
 
 .result.image img {
