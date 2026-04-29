@@ -123,6 +123,7 @@ body {
   height: 60px;
   display: none;
   padding-bottom: 5px;
+  vertical-align: middle;
 }
 
 .sorter > .text > p {
