@@ -825,11 +825,7 @@ function reduceTextWidth(text, font, width) {
   if (context.measureText(text).width < width * 0.8) {
     return text;
   } else {
-    let reducedText = text;
-    while (context.measureText(reducedText).width + context.measureText('..').width > width * 0.8) {
-      reducedText = reducedText.slice(0, -1);
-    }
-    return reducedText + '..';
+    return text;
   }
 }
 
