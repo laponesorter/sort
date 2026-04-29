@@ -51,7 +51,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Rocketeer",
-    img: "https://static.wikia.nocookie.net/ini/images/e/e7/A_Regular_Edition.png",
+    img: "src/assets/covers/s1.png",
     opts: {
       release: [ "single1" ,"album1"],
       type: ["aside"],
@@ -60,7 +60,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Brighter",
-    img: "https://static.wikia.nocookie.net/ini/images/6/6f/A_Limited_Edition_B.png",
+    img: "src/assets/covers/s1.png",
     opts: {
       release: [ "single1" ,"album1"],
       type: ["aside"],
@@ -69,7 +69,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Cardio",
-    img: "src/assets/covers/A-a.png",
+    img: "src/assets/covers/s1.png",
     opts: {
       release: [ "single1" ],
       type: ["bside"],
@@ -78,7 +78,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "KILLING PART",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s1.png",
     opts: {
       release: [ "single1" ],
       type: ["bside"],
@@ -87,7 +87,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "RUNWAY (INI ver.)",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s1.png",
     opts: {
       release: [ "single1" ],
       type: ["bside"],
@@ -96,7 +96,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "ONE (INI ver.)",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/s1.png",
     opts: {
       release: [ "single1" ],
       type: ["bside"],
@@ -105,7 +105,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "Brighter (Acoustic Ver.)  ",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digiworkspace1.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
@@ -114,7 +114,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
     name: "How are you",
-    img: "https://static.wikia.nocookie.net/ini/images/b/b0/A_Limited_Edition_A.png",
+    img: "src/assets/covers/digiworkspace3.png",
     opts: {
       release: [ "ini" ],
       type: ["digi"],
