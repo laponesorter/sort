@@ -723,4 +723,31 @@ dataSet[dataSetVersion].characterData = [
       year: ["26"]
     }
     },
+   {
+    name: "Sand Castle",
+    img: "src/assets/covers/digisandcastle.jpeg",
+    opts: {
+      release:  [ "ini" ],
+      type: ["digi"],
+      year: ["26"]
+    }
+    },
+   {
+    name: "Keshiki - INI VER.",
+    img: "src/assets/covers/digikeshiki.jpeg",
+    opts: {
+      release:  [ "ini" ],
+      type: ["digi"],
+      year: ["26"]
+    }
+    },
+   {
+    name: "Rendezvous",
+    img: "src/assets/covers/digirendezvous.jpeg",
+    opts: {
+      release:  [ "ini" ],
+      type: ["digi"],
+      year: ["26"]
+    }
+    },
 ];
