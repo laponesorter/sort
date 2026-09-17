@@ -746,8 +746,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Rendezvous",
     img: "src/assets/covers/digirendezvous.jpeg",
     opts: {
-      release:  [ "ini" ],[ "single9" ]
-      type: ["digi"],["bside"]
+      release:  [ "ini" ],[ "single9" ],
+      type: ["digi"],["bside"],
       year: ["26"]
     }
     },
