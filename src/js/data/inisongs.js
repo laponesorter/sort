@@ -16,10 +16,11 @@ dataSet[dataSetVersion].options = [
       { name: "THE VIEW", key: "single7" },
       { name: "WINTER MAGIC", key: "singlewinter" },
       { name: "PULSE", key: "single8" },
+      { name: "ANTHEM", key: "single9" },
       { name: "Awakening", key: "album1" },
       { name: "MATCH UP", key: "album2" },
       { name: "The ORIGIN", key: "album3" },
-      { name: "Digital", key: "ini"},
+      { name: "Digital Songs", key: "ini"},
     ]
   },
   {
@@ -745,9 +746,55 @@ dataSet[dataSetVersion].characterData = [
     name: "Rendezvous",
     img: "src/assets/covers/digirendezvous.jpeg",
     opts: {
-      release:  [ "ini" ],
-      type: ["digi"],
+      release:  [ "ini" ],[ "single9" ]
+      type: ["digi"],["bside"]
       year: ["26"]
     }
     },
+   {
+    name: "You Know What To Do",
+    img: "src/assets/covers/s9.jpeg",
+    opts: {
+      release:  [ "single9" ],
+      type: ["aside"],
+      year: ["26"]
+    }
+    },
+   {
+    name: "1NA  RIDE",
+    img: "src/assets/covers/s9.jpeg",
+    opts: {
+      release:  [ "single9" ],
+      type: ["bside"],
+      year: ["26"]
+    }
+    },
+   {
+    name: "Lose To Love Me",
+    img: "src/assets/covers/s9.jpeg",
+    opts: {
+      release:  [ "single9" ],
+      type: ["bside"],
+      year: ["26"]
+    }
+    },
+   {
+    name: "SUPER NOSTALGIC",
+    img: "src/assets/covers/s9.jpeg",
+    opts: {
+      release:  [ "single9" ],
+      type: ["bside"],
+      year: ["26"]
+    }
+    },
+   {
+    name: "BEYOND THE SKY",
+    img: "src/assets/covers/s9.jpeg",
+    opts: {
+      release:  [ "single9" ],
+      type: ["bside"],
+      year: ["26"]
+    }
+    },
+
 ];
